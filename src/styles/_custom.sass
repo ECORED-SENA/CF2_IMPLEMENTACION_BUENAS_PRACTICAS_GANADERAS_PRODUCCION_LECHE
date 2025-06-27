@@ -50,7 +50,7 @@
 .banner-principal__row .banner-principal__img
   width: 370px !important 
   @media screen and (max-width: 1200px)
-    width: 0px !important 
+    width: 320px !important 
   @media screen and (min-width: 1400px)
     width: 420px !important
 
@@ -108,7 +108,7 @@ figcaption
 /// TITULOS TERCER NIVEL
 .caja-titulos-tercer-nivel
   background-color: $color-acento-contenido
-  border-radius: 5px
+  border-radius: 100px
   display: inline-flex
   align-items: center
   padding: 1rem
@@ -123,7 +123,7 @@ figcaption
     padding: 1.5rem
     margin-left: 0.4rem
   h3
-    margin-left: 1rem
+    margin-left: -0.5rem
     padding-left: 0rem
     align-items: center
     white-space: normal
@@ -131,10 +131,10 @@ figcaption
     margin-bottom: 0px
   img
     position: relative
-    left: 2px
-    bottom: 10px
+    left: -15px
+    bottom: 1px
     @media screen and (max-width: 1200px)
-      bottom: 7px
+      bottom: 0px
     @media screen and (max-width: 768px)
       bottom: 0px
 
@@ -144,6 +144,14 @@ figcaption
 /// FONDOS
 .fondo___img
   background-image: url("../assets/curso/temas/img1.png")
+  background-repeat: no-repeat
+  background-size: 1145px
+  margin-inline: -3.2rem !important
+  @media screen and (min-width: 1400px)
+    background-size: 1325px
+
+.fondo___img_1
+  background-image: url("../assets/curso/temas/img67.png")
   background-repeat: no-repeat
   background-size: 1145px
   margin-inline: -3.2rem !important
@@ -168,13 +176,6 @@ figcaption
   background-repeat: no-repeat
   background-size: cover
   margin-inline: -3.2rem !important
-
-
-
-
-
-
-
 
 
 
@@ -217,14 +218,13 @@ figcaption
 /// BLOQUE 1 -----------------------
 .estilo___ul
   li
-    color: #065116
     margin-left: -1rem
 
 .style___box_1_1
   background-color: $color-adicional-4
   padding: 0rem 0rem 0rem 1.5rem
   img
-    margin-right: -0.7rem !important
+    margin-right: -0.8rem !important
   @media screen and (max-width: 1200px)
     padding: 1.5rem
 
@@ -234,7 +234,8 @@ figcaption
   -webkit-overflow-scrolling: touch
   table
     width: 100%
-    min-width: 500px
+    mim-width: 500px
+    border-bottom: 1px solid #b9b9b9!important
   thead
     border-top: 5px solid $color-acento-contenido !important
     background-color: $color-adicional-5 !important
@@ -274,7 +275,6 @@ figcaption
   padding: 0rem 1rem 0rem 0rem
   ul
     padding-left: 3.5rem
-    color: #065116
     @media screen and (max-width: 1200px)
       padding: 0rem
   li
@@ -300,15 +300,15 @@ figcaption
   width: 100% !important
   border-radius: 20px
   margin: 0rem !important
-  padding: 3rem !important
+  padding: 1rem !important
   background-color: $color-adicional-7
   box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.4)
   p
-    padding: 0rem 2rem
+    padding: 0rem 1rem
   h4
-    padding: 0rem 2rem
+    padding: 0rem 1rem
   @media screen and (max-width: 576px)
-    padding: 1rem 2rem 1rem 2rem !important
+    padding: 1rem 1rem 1rem 1rem !important
   @media screen and (max-width: 768px)
     margin: 2rem 1rem 2rem 2rem 
     padding: 2rem 2rem 1rem 2rem 
@@ -350,10 +350,14 @@ figcaption
     padding: 1.5rem
 .estilo___i
   li
-    color: #065116
     margin-left: 1.2rem
     padding-right: 2rem
   
+.fa-hat-cowboy
+  color: #065116
+.fa-redhat
+  color: #065116
+
 .style___box_4
   background-color: $color-adicional-9
   padding: 1.5rem
@@ -388,6 +392,18 @@ figcaption
 
 .bloque-texto-g.color-primario
   background-color: $color-adicional-1
+
+/// BLOQUE 8 -----------------------
+.tarjeta.color-primario
+  background-color: $color-adicional-9
+  padding: 1.5rem
+  border-radius: 0px !important
+  h4
+    color: $color-sistema-texto
+  em
+    color: $color-sistema-texto
+  p
+    color: $color-sistema-texto
   
 /// BLOQUE 9 -----------------------
 .style___box_8
@@ -408,21 +424,172 @@ figcaption
   @media screen and (max-width: 1200px)
     padding: 1.5rem
 
-  
 
 
+/// TEMA 2
+.style___box_11
+  background-color: $color-adicional-8
+  padding: 1.5rem
+  @media screen and (min-width: 1400px)
+    padding: 3rem 2rem
 
+.tabs-c__tab--active
+  font-weight: bold
+.tabs-c__content-item
+  background-color: $color-adicional-3
+  padding: 2rem
+.tabs-c
+  border-bottom: none !important
 
+.style___box_12
+  background-color: $color-adicional-4
+  border-radius: 10px
+  padding: 1.5rem
 
+.style___box_13
+  background-color: $color-adicional-3
+  padding: 0rem 1rem 0rem 0rem
+  img
+    margin-left: -0.8rem !important
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem
 
-
-
-
-/// TEMA 
 /// BLOQUE 1 -----------------------
-/// BLOQUE 2 -----------------------
-/// BLOQUE 3 -----------------------
+.style___box_14
+  background-color: $color-adicional-9
+  padding: 0rem 0rem 0rem 1.5rem
+  img
+    margin-right: -0.7rem !important
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem
+  @media screen and (min-width: 1400px)
+    padding: 0rem 0rem 0rem 1.5rem
+
+.estilo___i_1
+  li
+    margin-left: 2.5rem
+    padding-right: 2rem
+    @media screen and (max-width: 1200px)
+      margin-left: -0.8rem
+      padding-right: 0rem
+
+.ajuste___color_1
+  background-color: #FCF0DF !important
+  border-radius: 0px !important
+.ajuste___color_2
+  background-color: $color-adicional-3 !important
+  border-radius: 0px !important
+.ajuste___color_3
+  border-radius: 0px !important
+
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  border-bottom-left-radius: 20px
+  border-bottom-right-radius: 20px
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+      background-color: $color-adicional-8
+      border-bottom-left-radius: 20px
+      border-bottom-right-radius: 20px
+      h4
+        color: $color-sistema-texto
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: $color-secundario
+    h4
+      text-align: center
+      color: $color-sistema-texto
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
+
+.lista-ol--cuadro
+  li
+    display: flex
+.lista-ol--cuadro__vineta
+  color: $color-sistema-texto
+
+.tarjeta.color-secundario
+  background-color: $color-adicional-3
+  padding: 1rem
+  border-radius: 0px !important
+  h4
+    color: $color-sistema-texto
+  em
+    color: $color-sistema-texto
+  p
+    color: $color-sistema-texto
+
+.ajuste___espacio
+  margin-left: 2rem 
+  padding-right: 2rem
+  @media screen and (max-width: 1200px)
+    margin-left: 0rem 
+    padding-right: 0rem
+
+.tabs-a__tab__selected
+  background-color: $color-acento-botones
+.tabs-a__tab__text
+  color: black
+.tabs-a__tab
+  background-color: $color-adicional-6
+.color-acento-contenido--borde
+  border: none !important
+  background-color: $color-adicional-3 !important 
+  padding: 3rem !important
+
+.ajuste___color_4
+  background-color: $color-adicional-9
+  border-radius: 0px !important
+
+.ajuste___color_5
+  background-color: $color-adicional-1 !important
+
+.tabs-b__tab
+  background-color: $color-adicional-1
+  border: none
+.tabs-b__tab:hover
+    background-color: $color-adicional-1
+.tabs-b__tab--active
+  background-color: $color-adicional-3
+.tabs-b__tab--active:hover
+  background-color: $color-adicional-3 !important
+.tabs-b
+  border: none
+.tabs-b__content-item
+  background-color: $color-adicional-3
+.tabs-b__header
+  background-color: $color-adicional-3
+.ajuste__movil_3
+  padding: 0rem 0rem 0rem 3rem
+  @media screen and (max-width: 1200px)
+    padding: 0rem 3rem
+
 /// BLOQUE 4 -----------------------
+.style___box_15
+  background-color: $color-adicional-3
+  padding: 3rem
+  @media screen and (max-width: 1200px)
+    padding: 1.5rem
+
 /// BLOQUE 5 -----------------------
+.ajuste___color_8
+  border-radius: 0px !important
+
 /// BLOQUE 6 -----------------------
-/// BLOQUE 7 -----------------------
+.ajuste___color_9
+  background-color: $color-adicional-4 !important
+
+.ajuste___color_10
+  background-color: #ECEAEA !important
+  border-radius: 0px !important
+

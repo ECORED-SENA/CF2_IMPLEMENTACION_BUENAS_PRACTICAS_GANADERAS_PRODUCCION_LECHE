@@ -49,7 +49,7 @@
             h4.mb-3.estilo-text Asignar recursos útiles
             p.mb-0 Determinar y distribuir los recursos humanos, técnicos y financieros necesarios.
         
-        p.mb-0 La implementación de las Buenas Prácticas Ganaderas se aplica durante los procesos de producción pecuaria con el propósito de asegurar la sostenibilidad ambiental y económica en toda la cadena productiva. Para profundizar en estas prácticas, se recomienda consultar el recurso audiovisual titulado Video Eliana.
+        p.mb-0.espacio___movil_1 La implementación de las Buenas Prácticas Ganaderas se aplica durante los procesos de producción pecuaria con el propósito de asegurar la sostenibilidad ambiental y económica en toda la cadena productiva. Para profundizar en estas prácticas.
     
         <!-- BLOQUE 1 -->
         Separador
@@ -58,7 +58,7 @@
 
         p.mb-5 El objetivo principal es <strong>implementar las BPG en la producción de leche bovina</strong>, con el fin de:
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5.espacio___movil_1
       .col-xl-10
         .row.align-items-center.m-0.style___box_1_1(data-aos="zoom-in")
           .col-xl
@@ -117,44 +117,46 @@
 
     p.mb-5 Los siguientes componentes constituyen la base del plan de implementación de las BPG, conforme a los lineamientos del ICA:
 
-    .bg--img_03
-      .row.h-100.align-items-center
-        .col-xl-auto
-          figure(data-aos="fade-right").d-none.d-xl-block
-            img(src="@/assets/curso/temas/img9.png", alt="" style="width: 400px").m-auto
-        .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
-            .row(titulo="Diagnóstico inicial del predio").ajuste-cajaAcordion
-              p.mb-0 Evaluación del estado actual de la finca en términos sanitarios, ambientales, infraestructura y manejo animal. Es el punto de partida para elaborar un plan de mejora.
-            .row(titulo="Manejo sanitario del hato").ajuste-cajaAcordion
-              p.mb-0  Incluye vacunación, desparasitación, control de brucelosis y tuberculosis, con visitas periódicas del médico veterinario. Obligatorio según Art. 14, Resolución ICA 000145/2020.
-            .row(titulo="Calidad del agua y alimentos").ajuste-cajaAcordion
-              p.mb-0 El agua debe ser potable o cumplir los estándares del INS; los alimentos deben almacenarse correctamente y estar libres de contaminantes. Regulación: Art. 15, Resolución ICA 000145/2020.
-            .row(titulo="Bienestar animal").ajuste-cajaAcordion
-              p.mb-0 Aplicación de las cinco libertades y los cinco dominios del bienestar animal, según la OIE.
-            .row(titulo="Manejo higiénico de la ordeña").ajuste-cajaAcordion
-              p.mb-0 Lavado de ubres, uso de implementos limpios, control de mastitis y enfriamiento inmediato de la leche. Normativa: Resolución 000017/2012 y Decreto 616/2006 (MinSalud).
-    
-    .bg--img_03
-      .row.h-100.align-items-center
-        .col-xl
-          AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
-            .row(titulo="Uso responsable de medicamentos").ajuste-cajaAcordion
-              p.mb-0 Registro obligatorio, tiempos de retiro, prescripción veterinaria, prohibición de sustancias no autorizadas. Resolución ICA 1056/2020.
-            .row(titulo="Registro y trazabilidad").ajuste-cajaAcordion
-              p.mb-0  Identificación individual del ganado y registros de producción, tratamientos y movimientos. Resolución ICA 20126/2016.
-            .row(titulo="Gestión ambiental").ajuste-cajaAcordion
-              p.mb-0 Manejo de estiércol, aguas de lavado, conservación de suelos y disposición de envases, según el Decreto 1076/2015 y la Resolución 0371/2009 (MADS).
-            .row(titulo="Capacitación del personal").ajuste-cajaAcordion
-              p.mb-0 Formación continua y registro de capacitación en higiene, manejo animal, bioseguridad y normatividad, con evidencia verificable ante el ICA.
-            .row(titulo="Evaluación y mejora continua").ajuste-cajaAcordion
-              p.mb-0 Auditorías internas y actualizaciones periódicas del plan de acción para asegurar la sostenibilidad del sistema.
-        .col-xl-auto
-          figure(data-aos="fade-right").d-none.d-xl-block
-            img(src="@/assets/curso/temas/img10.png", alt="" style="width: 400px").m-auto
+    .row.justify-content-center.mb-5.espacio___movil_1
+      .col-xl-10
+        .bg--img_03
+          .row.h-100.align-items-center
+            .col-xl-auto
+              figure(data-aos="fade-right").d-none.d-xl-block
+                img(src="@/assets/curso/temas/img9.png", alt="" style="width: 400px").m-auto
+            .col-xl
+              AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
+                .row(titulo="Diagnóstico inicial del predio").ajuste-cajaAcordion
+                  p.mb-0 Evaluación del estado actual de la finca en términos sanitarios, ambientales, infraestructura y manejo animal. Es el punto de partida para elaborar un plan de mejora.
+                .row(titulo="Manejo sanitario del hato").ajuste-cajaAcordion
+                  p.mb-0  Incluye vacunación, desparasitación, control de brucelosis y tuberculosis, con visitas periódicas del médico veterinario. Obligatorio según Art. 14, Resolución ICA 000145/2020.
+                .row(titulo="Calidad del agua y alimentos").ajuste-cajaAcordion
+                  p.mb-0 El agua debe ser potable o cumplir los estándares del INS; los alimentos deben almacenarse correctamente y estar libres de contaminantes. Regulación: Art. 15, Resolución ICA 000145/2020.
+                .row(titulo="Bienestar animal").ajuste-cajaAcordion
+                  p.mb-0 Aplicación de las cinco libertades y los cinco dominios del bienestar animal, según la OIE.
+                .row(titulo="Manejo higiénico de la ordeña").ajuste-cajaAcordion
+                  p.mb-0 Lavado de ubres, uso de implementos limpios, control de mastitis y enfriamiento inmediato de la leche. Normativa: Resolución 000017/2012 y Decreto 616/2006 (MinSalud).
+        
+        .bg--img_03.espacio___movil_3
+          .row.h-100.align-items-center
+            .col-xl
+              AcordionA(tipo="a" clase-tarjeta="tarjeta acordeonA")(data-aos="fade-left")
+                .row(titulo="Uso responsable de medicamentos").ajuste-cajaAcordion
+                  p.mb-0 Registro obligatorio, tiempos de retiro, prescripción veterinaria, prohibición de sustancias no autorizadas. Resolución ICA 1056/2020.
+                .row(titulo="Registro y trazabilidad").ajuste-cajaAcordion
+                  p.mb-0  Identificación individual del ganado y registros de producción, tratamientos y movimientos. Resolución ICA 20126/2016.
+                .row(titulo="Gestión ambiental").ajuste-cajaAcordion
+                  p.mb-0 Manejo de estiércol, aguas de lavado, conservación de suelos y disposición de envases, según el Decreto 1076/2015 y la Resolución 0371/2009 (MADS).
+                .row(titulo="Capacitación del personal").ajuste-cajaAcordion
+                  p.mb-0 Formación continua y registro de capacitación en higiene, manejo animal, bioseguridad y normatividad, con evidencia verificable ante el ICA.
+                .row(titulo="Evaluación y mejora continua").ajuste-cajaAcordion
+                  p.mb-0 Auditorías internas y actualizaciones periódicas del plan de acción para asegurar la sostenibilidad del sistema.
+            .col-xl-auto
+              figure(data-aos="fade-right").d-none.d-xl-block
+                img(src="@/assets/curso/temas/img10.png", alt="" style="width: 400px").m-auto
 
     <!-- BLOQUE 3 -->
-    Separador
+    Separador.espacio___movil_2
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.3 Parámetros de complementación
 
@@ -274,7 +276,7 @@
                 img(src='@/assets/curso/temas/img23.svg', alt="" style="max-width: 90px").m-auto
           h3.text-center Manejo sanitario
           p.mb-0 Prevención, diagnóstico y control de enfermedades en el hato.
-      .col-lg-4(data-aos="zoom-in")
+      .col-lg-4(data-aos="zoom-in").espacio___movil_3
         .tarjeta--boton.p-5.h-100
           .row.justify-content-center.mb-3
             .col-7
@@ -282,7 +284,7 @@
                 img(src='@/assets/curso/temas/img24.svg', alt="" style="max-width: 90px").m-auto
           h3.text-center Buen uso de medicamentos veterinarios
           p.mb-0 Aplicación racional bajo supervisión técnica y con registros actualizados.
-      .col-lg-4(data-aos="zoom-in")
+      .col-lg-4(data-aos="zoom-in").espacio___movil_3
         .tarjeta--boton.p-5.h-100
           .row.justify-content-center.mb-3
             .col-7
@@ -300,7 +302,7 @@
                 img(src='@/assets/curso/temas/img26.svg', alt="" style="max-width: 90px").m-auto
           h3.text-center Almacenamiento de insumos
           p.mb-0 Conservación segura y organizada de productos veterinarios y agrícolas, conforme a la normatividad.
-      .col-lg-4(data-aos="zoom-in")
+      .col-lg-4(data-aos="zoom-in").espacio___movil_3
         .tarjeta--boton.p-5.h-100
           .row.justify-content-center.mb-3
             .col-7
@@ -308,7 +310,7 @@
                 img(src='@/assets/curso/temas/img27.svg', alt="" style="max-width: 90px").m-auto
           h3.text-center Buenas prácticas en la alimentación
           p.mb-0 Provisión de dieta balanceada y agua potable en cantidad y calidad adecuadas.
-      .col-lg-4(data-aos="zoom-in")
+      .col-lg-4(data-aos="zoom-in").espacio___movil_3
         .tarjeta--boton.p-5.h-100
           .row.justify-content-center.mb-3
             .col-7
@@ -337,7 +339,7 @@
                       <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Reducir el impacto ambiental derivado de la actividad ganadera.</li>
                       <li class="mb-0"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Optimizar la rentabilidad y sostenibilidad del sistema productivo.</li>
                     </ul>
-              .col-xl-6(data-aos="zoom-in")
+              .col-xl-6(data-aos="zoom-in").espacio___movil_3
                 .style___box_3.h-100
                   .row.justify-content-center.mb-3
                     .col-xl
@@ -359,15 +361,15 @@
         .style___box_4.h-100
           h4 Las personas y la empresa
           p.mb-0 Organización de la empresa Personal.
-      .col-xl-3(data-aos="zoom-in")
+      .col-xl-3(data-aos="zoom-in").espacio___movil_3
         .style___box_4.h-100
           h4 El animal y su manejo
           p.mb-0 Manejo del hato Alimentación Salud animal Bienestar animal.
-      .col-xl-3(data-aos="zoom-in")
+      .col-xl-3(data-aos="zoom-in").espacio___movil_3
         .style___box_4.h-100
           h4 Infraestructura de producción
           p.mb-0 Establecimiento Instalaciones, equipos y herramientas.
-      .col-xl-3(data-aos="zoom-in")
+      .col-xl-3(data-aos="zoom-in").espacio___movil_3
         .style___box_4.h-100
           h4 El ambiente y la producción
           p.mb-0 Suelo, agua, forrajes gestión de estiércol y efluentes gestión de residuos adaptación y mitigación al cambio climático.
@@ -383,7 +385,7 @@
       .col-xl-10
         .row.align-items-center.m-0.style___box_1_1.ajuste___color(data-aos="zoom-in")
           .col-xl
-            <ul class="fa-ul estilo___ul">
+            <ul class="fa-ul estilo___ul mb-0">
               <li class="mb-2 mt-3"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Aumente la productividad.</li>
               <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Sea amigable con el medio ambiente.</li>
               <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Preserve la integridad física y emocional de los trabajadores.</li>
@@ -488,7 +490,7 @@
 
     p.mb-5 Una vez solicitada la auditoría:
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-5.espacio___movil_1
       .col-xl-10
         .row.align-items-center.m-0.style___box_5(data-aos="zoom-in")
           .col-xl-auto
@@ -505,7 +507,7 @@
               </ul>
             </ul>
 
-    p.mb-5 Este informe constituirá parte integral del soporte documental necesario para la expedición del certificado oficial de Buenas Prácticas Ganaderas.
+    p.mb-0.espacio___movil_1 Este informe constituirá parte integral del soporte documental necesario para la expedición del certificado oficial de Buenas Prácticas Ganaderas.
           
     <!-- BLOQUE 6 -->
     Separador
@@ -520,7 +522,7 @@
         figure.d-none.d-xl-block
           img(src='@/assets/curso/temas/img43.png', alt='' style="max-width: 500px").m-auto
 
-    p.mb-5 Para crear un cronograma efectivo dentro del plan de implementación de Buenas Prácticas Ganaderas, es fundamental considerar el tiempo total disponible para su ejecución, así como los objetivos o metas que se desean alcanzar. La planificación debe incluir todas las actividades necesarias, sin omitir aquellas que, aunque parezcan mínimas, son claves para el éxito del proceso.
+    p.mb-5.espacio___movil_1 Para crear un cronograma efectivo dentro del plan de implementación de Buenas Prácticas Ganaderas, es fundamental considerar el tiempo total disponible para su ejecución, así como los objetivos o metas que se desean alcanzar. La planificación debe incluir todas las actividades necesarias, sin omitir aquellas que, aunque parezcan mínimas, son claves para el éxito del proceso.
 
     .fondo___color_1
       .px-5
@@ -555,7 +557,7 @@
                     td.ajuste-border-tabla.texto-left Divulgación de los lineamientos del plan.
                     td.texto-left Comunicación clara al equipo de trabajo.
         
-        p.mb-0 Estas acciones deben organizarse de manera secuencial o paralela, según su naturaleza y dependencia, lo que permitirá optimizar recursos, establecer prioridades y garantizar un seguimiento riguroso en cada fase del proceso. Entre más específico mejor quedará el cronograma y, por tanto, las actividades serán mejor planeadas y ejecutadas en los tiempos requeridos.
+        p.mb-0.espacio___movil_1 Estas acciones deben organizarse de manera secuencial o paralela, según su naturaleza y dependencia, lo que permitirá optimizar recursos, establecer prioridades y garantizar un seguimiento riguroso en cada fase del proceso. Entre más específico mejor quedará el cronograma y, por tanto, las actividades serán mejor planeadas y ejecutadas en los tiempos requeridos.
 
         <!-- BLOQUE 7 -->
         Separador
@@ -567,27 +569,24 @@
     .row.align-items-center.mb-5
       .col-xl
         .row.align-items-center.m-0
-          .row.align-items-center.m-0.style___box_7.mb-3(data-aos="zoom-in")
+          .row.align-items-center.m-0.style___box_7.mb-3(data-aos="zoom-in").espacio___movil_3
             .col-xl-auto
               figure.d-none.d-xl-block
                 img(src='@/assets/curso/temas/img44.jpg', alt='' style="max-width: 500px").m-auto
             .col-xl
               p.mb-0 Además, el juicio técnico del profesional que la aplica resulta clave, ya que debe interpretar con criterio objetivo si cada ítem evaluado cumple o no con lo exigido, según la normativa vigente y los principios de las Buenas Prácticas Ganaderas (BPG).
-        p.mb-0 En los planes de implementación de las BPG, estas listas son una herramienta ampliamente utilizada para realizar el seguimiento sistemático de cada uno de los componentes del plan. Permiten verificar la implementación de procedimientos y procesos dentro de la unidad productiva, orientados al cumplimiento de los estándares exigidos. También son fundamentales para diagnosticar, evaluar y monitorear de forma periódica el estado del predio, la producción y el avance en la adopción de las prácticas requeridas para la certificación en bovinos dedicados a la producción de leche.
+        p.mb-0.espacio___movil_3 En los planes de implementación de las BPG, estas listas son una herramienta ampliamente utilizada para realizar el seguimiento sistemático de cada uno de los componentes del plan. Permiten verificar la implementación de procedimientos y procesos dentro de la unidad productiva, orientados al cumplimiento de los estándares exigidos. También son fundamentales para diagnosticar, evaluar y monitorear de forma periódica el estado del predio, la producción y el avance en la adopción de las prácticas requeridas para la certificación en bovinos dedicados a la producción de leche.
       .col-xl-auto(data-aos="fade-left")
         figure.d-none.d-xl-block
           img(src='@/assets/curso/temas/img45.png', alt='' style="max-width: 300px").m-auto
     
-    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mb-5(data-aos="zoom-in")
+    .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5(data-aos="zoom-in")
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/temas/img46.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
         p.mb-0 Los datos obtenidos a través de estas listas pueden organizarse y analizarse mediante reportes estadísticos representados en gráficas o diagramas, lo que facilita su interpretación y permite observar la evolución de las actividades implementadas, apoyando la toma de decisiones estratégicas en función del cumplimiento de los objetivos del plan de implementación.
-
-    .row
-      .col-xl-4(data-aos="zoom-in")
-        a.anexo.mb-4(:href="obtenerLink('/downloads/ANEXO_1.xls')" target="_blank")
+        a.anexo.mt-3(:href="obtenerLink('/downloads/ANEXO_1.xls')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-xls.svg")
           .anexo__texto
@@ -600,21 +599,41 @@
 
     p.mb-5 Los criterios de cumplimiento se derivan de los componentes que conforman las BPG. Se utilizan principalmente en las listas de chequeo para realizar diagnósticos, evaluaciones y monitoreos de la aplicación de dichas prácticas en las unidades productivas. Estas listas están diseñadas de forma específica según la especie y el tipo de producción, discriminando y detallando aspectos propios de cada labor especializada. El ente regulador es responsable de diseñar estos criterios y de verificar su cumplimiento. En Colombia, esta función está a cargo del Instituto Colombiano Agropecuario (ICA).
 
-    .row.mb-5
-      .col-xl-4(data-aos="zoom-in")
-        .style___box_4.h-100
-          h4 <em>Checklists</em> específicos
-          p.mb-0 Diseñados por especie y tipo de producción.
-      .col-xl-4(data-aos="zoom-in")
-        .style___box_4.h-100
-          h4 Ente regulador
-          p.mb-0 Instituto Colombiano Agropecuario (ICA).
-      .col-xl-4(data-aos="zoom-in")
-        .style___box_4.h-100
-          h4 Función principal
-          p.mb-0 Diagnóstico, evaluación y monitoreo de las BPG en campo.
+    .row.justify-content-center.mb-5
+      .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="zoom-in")
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/img143.svg' alt="" )
+          .tarjeta.color-primario
+            .p-4
+              .row.justify-content-center.mb-3
+                .col-auto
+                  .py-2.px-3
+                    h4 <em>Checklists</em> específicos
+                    p.mb-0 Diseñados por especie y tipo de producción.
+      
+      .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="zoom-in")
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/img143.svg' alt="" )
+          .tarjeta.color-primario
+            .p-4
+              .row.justify-content-center.mb-3
+                .col-auto
+                  .py-2.px-3
+                    h4 Ente regulador
+                    p.mb-0 Instituto Colombiano Agropecuario (ICA).
+      
+      .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="zoom-in")
+        .tarjeta-avatar
+          img(src='@/assets/curso/temas/img143.svg' alt="" )
+          .tarjeta.color-primario
+            .p-4
+              .row.justify-content-center.mb-3
+                .col-auto
+                  .py-2.px-3
+                    h4 Función principal
+                    p.mb-0 Diagnóstico, evaluación y monitoreo de las BPG en campo.
 
-    .row
+    .row.espacio___movil_1
       .col-xl-4(data-aos="zoom-in")
         a.anexo.mb-4(:href="obtenerLink('/downloads/ANEXO_2.xlsx')" target="_blank")
           .anexo__icono
@@ -659,7 +678,7 @@
                     <li class="mb-0"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Guía sanitaria de movilización (original y copia), expedida por el ICA.</li>
                   </ul>
     
-    p.mb-5 Además de los registros mencionados, el productor que desee obtener la certificación en Buenas Prácticas Ganaderas (BPG) debe contar con los siguientes documentos actualizados y disponibles al momento de la auditoría:
+    p.mb-5.espacio___movil_3 Además de los registros mencionados, el productor que desee obtener la certificación en Buenas Prácticas Ganaderas (BPG) debe contar con los siguientes documentos actualizados y disponibles al momento de la auditoría:
 
     .row.mb-3
       .col-xl-6(data-aos="zoom-in")
@@ -667,17 +686,18 @@
           .row.align-items-center
             .col-xl-9
               p.mb-0 Certificado de uso del suelo.
-            .col-xl-3(data-aos="fade-left")
-              a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/ANEXO_3.pdf')" target="_blank" type="application/pdf")
+            .col-xl-3(data-aos="fade-left").espacio___movil_3
+              a.boton.color-acento-botones(@click="abrirModal('ANEXO_3.jpg')")
                 span Ver
                 i.fas.fa-search
-      .col-xl-6(data-aos="zoom-in")
+
+      .col-xl-6(data-aos="zoom-in").espacio___movil_3
         .style___box_9.h-100
           .row.align-items-center
             .col-xl-9
               p.mb-0 Registro sanitario de predio.
-            .col-xl-3(data-aos="fade-left")
-              a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/ANEXO_7.pdf')" target="_blank" type="application/pdf")
+            .col-xl-3(data-aos="fade-left").espacio___movil_3
+              a.boton.color-acento-botones(@click="abrirModal('ANEXO_7.jpg')")
                 span Ver
                 i.fas.fa-search
     
@@ -687,17 +707,18 @@
           .row.align-items-center
             .col-xl-9
               p.mb-0 Certificado hato libre de tuberculosis.
-            .col-xl-3(data-aos="fade-left")
-              a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/ANEXO_4.jpg')" target="_blank" type="application/pdf")
+            .col-xl-3(data-aos="fade-left").espacio___movil_3
+              a.boton.color-acento-botones(@click="abrirModal('ANEXO_4.jpg')")
                 span Ver
                 i.fas.fa-search
-      .col-xl-6(data-aos="zoom-in")
+
+      .col-xl-6(data-aos="zoom-in").espacio___movil_3
         .style___box_8.h-100
           .row.align-items-center
             .col-xl-9
               p.mb-0 Certificado hato libre de brucelosis.
-            .col-xl-3(data-aos="fade-left")
-              a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/ANEXO_8.jpg')" target="_blank" type="application/pdf")
+            .col-xl-3(data-aos="fade-left").espacio___movil_3
+              a.boton.color-acento-botones(@click="abrirModal('ANEXO_8.jpg')")
                 span Ver
                 i.fas.fa-search
 
@@ -707,38 +728,43 @@
           .row.align-items-center
             .col-xl-9
               p.mb-0 Guía de movilización interna.
-            .col-xl-3(data-aos="fade-left")
-              a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/ANEXO_5.png')" target="_blank" type="application/pdf")
+            .col-xl-3(data-aos="fade-left").espacio___movil_3
+              a.boton.color-acento-botones(@click="abrirModal('ANEXO_5.png')")
                 span Ver
                 i.fas.fa-search
-      .col-xl-6(data-aos="zoom-in")
+
+      .col-xl-6(data-aos="zoom-in").espacio___movil_3
         .style___box_9.h-100
           .row.align-items-center
             .col-xl-9
               p.mb-0 Constancia expedida por el médico veterinario que le preste asistencia técnica a su finca.
-            .col-xl-3(data-aos="fade-left")
-              a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/ANEXO_9.pdf')" target="_blank" type="application/pdf")
+            .col-xl-3(data-aos="fade-left").espacio___movil_3
+              a.boton.color-acento-botones(@click="abrirModal('ANEXO_9.jpg')")
                 span Ver
                 i.fas.fa-search
-    
+
     .row.mb-5
       .col-xl-12(data-aos="zoom-in")
         .style___box_9.h-100
           .row.align-items-center
             .col-xl-10
               p.mb-0 Constancia registro de predio ante el ICA.
-            .col-xl-2(data-aos="fade-left")
-              a.boton.color-acento-botones.texto-negro(:href="obtenerLink('/downloads/ANEXO_6.pdf')" target="_blank" type="application/pdf")
+            .col-xl-2(data-aos="fade-left").espacio___movil_3
+              a.boton.color-acento-botones(@click="abrirModal('ANEXO_6.jpg')")
                 span Ver
                 i.fas.fa-search
 
-    
+    // Modal ÚNICO (fuera de los .col-xl)
+    ModalA(:abrir-modal.sync="modalActivo")
+      figure
+        img(:src="imagenModal", alt="").m-auto
+
     .row.align-items-center.m-0.style___box_10(data-aos="zoom-in")
       .col-xl-auto
         figure(data-aos="fade-right").d-none.d-xl-block
           img(src='@/assets/curso/temas/img48.svg', alt='' style="max-width: 90px").m-auto 
       .col-xl
-        p.mb-0 Junto con estos documentos, es indispensable consultar la normatividad vigente de BPG definida por el ICA y aplicar la lista de chequeo oficial. Esta herramienta, denominada “Predios productores de leche con destino al consumo humano – Forma 3-852 V. 5”, permite identificar posibles carencias frente a la normativa e implementar un plan de mejora antes de solicitar la visita de auditoría.
+        p.mb-0 Junto con estos documentos, es indispensable consultar la normatividad vigente de BPG definida por el ICA y aplicar la lista de chequeo oficial. Esta herramienta, denominada “Predios productores de leche con destino al consumo humano - Forma 3-852 V. 5”, permite identificar posibles carencias frente a la normativa e implementar un plan de mejora antes de solicitar la visita de auditoría.
  
 </template>
 
@@ -755,6 +781,24 @@ export default {
   },
   updated() {
     this.$aosRefresh()
+  },
+}
+</script>
+
+<script>
+export default {
+  data() {
+    return {
+      modalActivo: false,
+      imagenModal: '',
+    }
+  },
+  methods: {
+    abrirModal(nombreImagen) {
+      // Ruta relativa a la carpeta /assets
+      this.imagenModal = require(`@/assets/curso/MODALES/${nombreImagen}`)
+      this.modalActivo = true
+    },
   },
 }
 </script>
