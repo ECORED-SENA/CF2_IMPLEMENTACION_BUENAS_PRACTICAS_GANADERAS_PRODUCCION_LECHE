@@ -263,7 +263,7 @@
 
     figure.mb-5(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/6UQFcvwHz3w" title="Recursos para implementación BPG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2oIxc8HM1DU" title="Recursos para implementación de BPG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     
     p.mb-5 Aunque las BPG pueden enfocarse específicamente en un tipo de producción, comparten una base común de principios y requisitos que deben cumplirse en cualquier sistema bovino.
 

@@ -1597,7 +1597,7 @@
 
     figure(data-aos="zoom-in")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/BHwq211HfWU" title="Características y simbología de las Buenas Prácticas Ganaderas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Qu87gWNPJK4" title="Características y simbologías de las Buenas Prácticas Ganaderas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     <!-- BLOQUE 4 -->
     Separador
