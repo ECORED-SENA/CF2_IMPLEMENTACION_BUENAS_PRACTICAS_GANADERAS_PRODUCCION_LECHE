@@ -478,9 +478,9 @@
         .row.align-items-center.m-0.style___box_1_1(data-aos="zoom-in")
           .col-xl
             <ul class="fa-ul estilo___ul">
-              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Revisar la normatividad vigente establecida por el Instituto Colombiano Agropecuario (ICA).</li>
-              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Aplicar la lista de chequeo titulada “Predios productores de leche con destino al consumo humano - Forma 3-852 V.5”. Esta herramienta permite identificar carencias frente a la normativa y establecer un plan de mejora.</li>
-              <li class="mb-0"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Solicitar la visita de auditoría al ICA una vez implementadas las mejoras necesarias.</li>
+              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span><strong>Revisar la normatividad vigente</strong> establecida por el Instituto Colombiano Agropecuario (ICA).</li>
+              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span><strong>Aplicar la lista de chequeo</strong> titulada “Predios productores de leche con destino al consumo humano - Forma 3-852 V.5”. Esta herramienta permite identificar carencias frente a la normativa y establecer un plan de mejora.</li>
+              <li class="mb-0"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span><strong>Solicitar la visita de auditoría</strong> al ICA una vez implementadas las mejoras necesarias.</li>
             </ul>
           .col-xl-auto
             figure.d-none.d-xl-block
@@ -498,16 +498,16 @@
               img(src='@/assets/curso/temas/img42.jpg', alt='' style="max-width: 500px").m-auto
           .col-xl
             <ul class="fa-ul estilo___ul">
-              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>El ICA o la entidad autorizada contará con un plazo máximo de quince (15) días para realizar la visita.</li>
-              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>urante esta, se diligenciará nuevamente la lista de chequeo, y se elaborará un informe de auditoría.</li>
-              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Este informe reflejará el concepto técnico, que podrá ser:</li>
+              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>El <strong>ICA o la entidad autorizada</strong> contará con un plazo máximo de <strong>quince (15) días</strong> para realizar la visita.</li>
+              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>urante esta, se diligenciará nuevamente la <strong>lista de chequeo</strong>, y se elaborará un informe de auditoría.</li>
+              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Este informe reflejará el <strong>concepto técnico</strong>, que podrá ser:</li>
               <ul class="fa-ul estilo___ul">
-                <li class="mb-0"><span class="fa-li"><i class="fab fa-redhat"></i></span>Certificable, si se cumple con los requisitos.</li>
-                <li class="mb-0"><span class="fa-li"><i class="fab fa-redhat"></i></span>Aplazado, si se requiere subsanar aspectos pendientes.</li>
+                <li class="mb-0"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Certificable</strong>, si se cumple con los requisitos.</li>
+                <li class="mb-0"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Aplazado</strong>, si se requiere subsanar aspectos pendientes.</li>
               </ul>
             </ul>
 
-    p.mb-0.espacio___movil_1 Este informe constituirá parte integral del soporte documental necesario para la expedición del certificado oficial de Buenas Prácticas Ganaderas.
+    p.mb-0.espacio___movil_1 Este informe constituirá parte integral del soporte documental necesario para la <strong>expedición del certificado oficial de Buenas Prácticas Ganaderas</strong>.
           
     <!-- BLOQUE 6 -->
     Separador
@@ -597,7 +597,7 @@
     #t_1_8.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.8 Criterios de cumplimiento
 
-    p.mb-5 Los criterios de cumplimiento se derivan de los componentes que conforman las BPG. Se utilizan principalmente en las listas de chequeo para realizar diagnósticos, evaluaciones y monitoreos de la aplicación de dichas prácticas en las unidades productivas. Estas listas están diseñadas de forma específica según la especie y el tipo de producción, discriminando y detallando aspectos propios de cada labor especializada. El ente regulador es responsable de diseñar estos criterios y de verificar su cumplimiento. En Colombia, esta función está a cargo del Instituto Colombiano Agropecuario (ICA).
+    p.mb-5 Los criterios de cumplimiento se derivan de los componentes que conforman las BPG. Se utilizan principalmente en las listas de chequeo para realizar diagnósticos, evaluaciones y monitoreos de la aplicación de dichas prácticas en las unidades productivas. Estas listas están diseñadas de forma específica según la especie y el tipo de producción, discriminando y detallando aspectos propios de cada labor especializada. El ente regulador es responsable de diseñar estos criterios y de verificar su cumplimiento. En Colombia, esta función está a cargo del <strong>Instituto Colombiano Agropecuario (ICA)</strong>.
 
     .row.justify-content-center.mb-5
       .col-10.col-md-6.col-lg-4.mb-4.mb-md-0(data-aos="zoom-in")
@@ -744,12 +744,12 @@
                 i.fas.fa-search
 
     .row.mb-5
-      .col-xl-12(data-aos="zoom-in")
+      .col-xl-6(data-aos="zoom-in")
         .style___box_9.h-100
           .row.align-items-center
-            .col-xl-10
+            .col-xl-9
               p.mb-0 Constancia registro de predio ante el ICA.
-            .col-xl-2(data-aos="fade-left").espacio___movil_3
+            .col-xl-3(data-aos="fade-left").espacio___movil_3
               a.boton.color-acento-botones(@click="abrirModal('ANEXO_6.jpg')")
                 span Ver
                 i.fas.fa-search

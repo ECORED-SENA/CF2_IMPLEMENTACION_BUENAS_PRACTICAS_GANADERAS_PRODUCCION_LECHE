@@ -9,7 +9,7 @@
       
     .row.align-items-center.mb-5
       .col-xl
-        p.mb-0.style___box_11 En el contexto de las Buenas Prácticas Ganaderas (BPG) aplicadas a la producción de leche en Colombia, es esencial comprender y aplicar correctamente los conceptos de proceso, procedimiento, registro y protocolo, ya que constituyen pilares fundamentales del sistema de aseguramiento de la inocuidad, el bienestar animal y la sostenibilidad productiva. Estos conceptos están plenamente integrados en los requerimientos establecidos por la Resolución ICA 067449 de 2020, que reglamenta la implementación de BPG en unidades productoras de leche. 
+        p.mb-0.style___box_11 En el contexto de las Buenas Prácticas Ganaderas (BPG) aplicadas a la producción de leche en Colombia, es esencial comprender y aplicar correctamente los conceptos de proceso, procedimiento, registro y protocolo, ya que constituyen pilares fundamentales del sistema de aseguramiento de la inocuidad, el bienestar animal y la sostenibilidad productiva. Estos conceptos están plenamente integrados en los requerimientos establecidos por la <strong>Resolución ICA 067449 de 2020</strong>, que reglamenta la implementación de BPG en unidades productoras de leche. 
       .col-xl-auto(data-aos="fade-left")
         figure.d-none.d-xl-block
           img(src='@/assets/curso/temas/img49.png', alt='' style="max-width: 400px").m-auto
@@ -81,7 +81,7 @@
       .col
         h3 Diseño de protocolos
 
-    p.mb-5 Aunque existen diferentes formas válidas de elaborar un protocolo, todas deben tener una secuencia lógica que organice los procesos y actividades dentro del sistema productivo ganadero. Un protocolo bien diseñado debe considerar los siguientes componentes clave: 
+    p.mb-5 Aunque existen diferentes formas válidas de elaborar un protocolo, todas deben tener una <strong>secuencia lógica</strong> que organice los procesos y actividades dentro del sistema productivo ganadero. Un protocolo bien diseñado debe considerar los siguientes <strong>componentes clave</strong>: 
 
     .row.justify-content-center.mb-5.m-0
       .col-xl-8
@@ -107,7 +107,7 @@
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.1 Tipos de procedimientos
 
-    p.mb-5 En la implementación de las Buenas Prácticas Ganaderas (BPG) en bovinos de leche, los procedimientos afectan directamente la inocuidad y calidad de la leche. Uno de los más relevantes es la rutina de ordeño, la cual debe aplicarse rigurosamente en cada unidad productiva para asegurar un producto final higiénico y seguro. 
+    p.mb-5 En la implementación de las <strong>Buenas Prácticas Ganaderas (BPG)</strong> en bovinos de leche, los procedimientos afectan directamente la <strong>inocuidad y calidad de la leche</strong>. Uno de los más relevantes es la <strong>rutina de ordeño</strong>, la cual debe aplicarse rigurosamente en cada unidad productiva para asegurar un producto final higiénico y seguro. 
 
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
@@ -116,7 +116,7 @@
       .col
         h3 Rutina de ordeño 
 
-    p.mb-5 Este procedimiento aplica a todas las vacas lactantes presentes en la unidad productiva. Debe ser ejecutado por el personal encargado del ordeño, en los turnos establecidos (mañana y tarde), siguiendo condiciones de higiene, orden y control sanitario. Las condiciones necesarias para aplicar el procedimiento son: 
+    p.mb-5 Este procedimiento aplica a <strong>todas las vacas lactantes</strong> presentes en la unidad productiva. Debe ser ejecutado por el personal encargado del ordeño, en los turnos establecidos (mañana y tarde), siguiendo condiciones de higiene, orden y control sanitario. Las condiciones necesarias para aplicar el procedimiento son: 
 
     .row.justify-content-center.mb-5
       .col-xl-10
@@ -168,7 +168,7 @@
             .row(titulo="Durante el ordeño").ajuste-cajaAcordion
               <ul class="fa-ul mb-0">
                 <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Colocar el equipo de ordeño siguiendo la secuencia habitual: ubres delanteras y luego traseras.</li>
-                <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Supervisar el flujo de leche y retirar el equipo a tiempo para evitar sobreordeño.</li>
+                <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Supervisar el flujo de leche y retirar el equipo a tiempo para evitar sobre ordeño.</li>
                 <li class="mb-0"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Realizar ordeño manual en caso de fallas del sistema o animales específicos.</li>
               </ul>
             .row(titulo="Después del ordeño").ajuste-cajaAcordion
@@ -408,7 +408,7 @@
       .col
         h3 Manejo de leche de retiro  
 
-    p.mb-5 Este protocolo está diseñado para garantizar que la leche extraída de vacas bajo tratamiento veterinario no se mezcle con leche destinada al consumo humano, evitando así riesgos sanitarios. Su correcta implementación contribuye al cumplimiento de la normativa y a la protección de la salud pública. 
+    p.mb-5 Este protocolo está diseñado para garantizar que la <strong>leche extraída de vacas bajo tratamiento veterinario</strong> no se mezcle con leche destinada al consumo humano, evitando así riesgos sanitarios. Su correcta implementación contribuye al cumplimiento de la normativa y a la protección de la salud pública. 
 
     .fondo___img_1
       .px-5
@@ -417,7 +417,7 @@
             .row.align-items-center.m-0.style___box_1_1(data-aos="zoom-in")
               .col-xl
                 h4.caja-titulos-cuarto-nivel(data-aos="fade-right") Alcance 
-                p.mb-0 Aplica a toda la leche producida por vacas tratadas con medicamentos (antibióticos, antiparasitarios, antiinflamatorios u otros), durante el período de retiro definido por el fabricante y aprobado por el ICA. 
+                p.mb-0 Aplica a <strong>toda la leche producida por vacas tratadas</strong> con medicamentos (antibióticos, antiparasitarios, antiinflamatorios u otros), durante el período de retiro definido por el fabricante y aprobado por el ICA. 
               .col-xl-auto
                 figure.d-none.d-xl-block
                   img(src='@/assets/curso/temas/img66.jpg', alt='' style="max-width: 500px").m-auto
@@ -538,9 +538,9 @@
         .row.align-items-center.m-0.style___box_1_1.ajuste___color(data-aos="zoom-in")
           .col-xl
             <ul class="fa-ul estilo___ul mb-0">
-              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Detergente alcalino o enzimático para eliminar residuos orgánicos (grasas y proteínas).</li>
-              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Ácido (nítrico o fosfórico) para remover depósitos minerales.</li>
-              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Desinfectante aprobado: hipoclorito de sodio, yodo o peróxido de hidrógeno.</li>
+              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Detergente <strong>alcalino o enzimático</strong> para eliminar residuos orgánicos (grasas y proteínas).</li>
+              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Ácido (nítrico o fosfórico) para remover <strong>depósitos minerales</strong>.</li>
+              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span><strong>Desinfectante aprobado</strong>: hipoclorito de sodio, yodo o peróxido de hidrógeno.</li>
               <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Agua potable (fría y caliente).</li>
               <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Cepillos y mangueras específicas.</li>
               <li class="mb-0"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Guantes, gafas y otros elementos de equipo de protección personal (EPP).</li>
@@ -847,7 +847,7 @@
         .row.align-items-center.m-0.style___box_14(data-aos="zoom-in")
           .col-xl
             h4.mb-4.caja-titulos-cuarto-nivel(data-aos="fade-right") Alcance 
-            p.mb-0 Aplica a todas las actividades de limpieza y desinfección del cuarto de almacenamiento del tanque de leche y del sitio de ordeño, incluyendo pisos, paredes, equipos fijos y mobiliario. 
+            p.mb-0 Aplica a <strong>todas las actividades de limpieza y desinfección</strong> del cuarto de almacenamiento del tanque de leche y del sitio de ordeño, incluyendo pisos, paredes, equipos fijos y mobiliario. 
           .col-xl-auto
             figure.d-none.d-xl-block
               img(src='@/assets/curso/temas/img90.jpg', alt='' style="max-width: 500px").m-auto
@@ -956,8 +956,8 @@
         .row.align-items-center.m-0.style___box_1_1(data-aos="zoom-in")
           .col-xl
             <ul class="fa-ul estilo___ul mb-0">
-              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Al finalizar cada jornada de ordeño: se debe hacer limpieza y desinfección completa de todas las superficies y equipos.</li>
-              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Una vez por semana: realizar una limpieza profunda de paredes, techos, áreas de difícil acceso o según indicaciones de control sanitario.</li>
+              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span><strong>Al finalizar cada jornada de ordeño</strong>: se debe hacer limpieza y desinfección completa de todas las superficies y equipos.</li>
+              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span><strong>Una vez por semana</strong>: realizar una <strong>limpieza profunda</strong> de paredes, techos, áreas de difícil acceso o según indicaciones de control sanitario.</li>
             </ul>
           .col-xl-auto
             figure.d-none.d-xl-block
@@ -1024,20 +1024,20 @@
                 .row(titulo="Secado").ajuste-cajaAcordion
                   p.mb-2 Una vez limpios, los utensilios deben: 
                   <ul class="fa-ul estilo___li mb-0">
-                    <li class="mb-1"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Secarse con toallas limpias o al aire, en un lugar ventilado y libre de polvo. </li>
+                    <li class="mb-1"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Secarse con <strong>toallas limpias</strong> o al aire, en un lugar <strong>ventilado y libre de polvo</strong>. </li>
                     <li class="mb-1"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Nunca estar en contacto con el suelo ni con superficies contaminadas. </li>
                   </ul>
                 .row(titulo="Almacenamiento").ajuste-cajaAcordion
                   p.mb-2 Después del secado, los utensilios deben guardarse: 
                   <ul class="fa-ul estilo___li mb-0">
-                    <li class="mb-1"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>En estantes elevados o armarios limpios, protegidos del polvo, insectos y animales. </li>
+                    <li class="mb-1"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>En <strong>estantes elevados o armarios limpios</strong>, protegidos del polvo, insectos y animales. </li>
                     <li class="mb-1"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>En un área ventilada, seca y ordenada. </li>
                   </ul>
                 .row(titulo="Control y supervisión").ajuste-cajaAcordion
                   p.mb-2 Para asegurar el cumplimiento del procedimiento:  
                   <ul class="fa-ul estilo___li mb-0">
                     <li class="mb-1"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Realizar inspecciones visuales diarias. </li>
-                    <li class="mb-1"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Reparar o reemplazar utensilios deteriorados, sucios o con grietas que puedan acumular suciedad o bacterias.</li>
+                    <li class="mb-1"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span><strong>Reparar o reemplazar</strong> utensilios deteriorados, sucios o con grietas que puedan acumular suciedad o bacterias.</li>
                   </ul>
             .col-xl-auto
               figure(data-aos="fade-right").d-none.d-xl-block
@@ -1096,7 +1096,7 @@
         .row.align-items-center.m-0.style___box_14(data-aos="zoom-in")
           .col-xl
             h4.mb-2.caja-titulos-cuarto-nivel(data-aos="fade-right") Alcance 
-            p.mb-0 Este protocolo aplica al manejo sanitario de enfermedades como brucelosis, tuberculosis, fiebre aftosa, leucosis bovina, paratuberculosis, y otras clasificadas por el ICA como de control oficial o endémicas en bovinos. 
+            p.mb-0 Este protocolo aplica al manejo sanitario de enfermedades como <strong>brucelosis, tuberculosis, fiebre aftosa, leucosis bovina, paratuberculosis</strong>, y otras clasificadas por el ICA como de control oficial o endémicas en bovinos. 
           .col-xl-auto
             figure.d-none.d-xl-block
               img(src='@/assets/curso/temas/img90.jpg', alt='' style="max-width: 500px").m-auto
@@ -1141,7 +1141,7 @@
         .row.align-items-center.m-0.style___box_14(data-aos="zoom-in")
           .col-xl
             h4.mb-2.caja-titulos-cuarto-nivel(data-aos="fade-right") Alcance 
-            p.mb-0 Este procedimiento aplica a todos los elementos del sistema: unidad de ordeño (pezoneras, colectores, mangueras), tuberías, equipo de vacío, bomba de leche, tarros, baldes y el tanque de enfriamiento.
+            p.mb-0 Este procedimiento aplica a todos los elementos del sistema: unidad de ordeño (pezoneras, colectores, mangueras), tuberías, equipo de vacío, bomba de leche, tarros, baldes y el <strong>tanque de enfriamiento</strong>.
           .col-xl-auto
             figure.d-none.d-xl-block
               img(src='@/assets/curso/temas/img104.jpg', alt='' style="max-width: 500px").m-auto
@@ -1169,7 +1169,7 @@
 
     h4.mb-4.caja-titulos-cuarto-nivel(data-aos="fade-right") Limpieza y desinfección del sistema de ordeño 
 
-    p.mb-5 Este procedimiento debe realizarse después de cada jornada de ordeño, siguiendo los pasos detallados a continuación: 
+    p.mb-5 Este procedimiento debe realizarse <strong>después de cada jornada de ordeño</strong>, siguiendo los pasos detallados a continuación: 
 
     .fondo___img
       .px-5
@@ -1179,13 +1179,13 @@
               .col-8
                 img(src='@/assets/curso/temas/img148.svg' style="max-width: 90px").m-auto
             h4.mb-3.estilo-text Preenjuague
-            p.mb-0 Enjuagar todo el sistema con agua tibia (35 - 40oC) inmediatamente después del ordeño para remover residuos de leche.
+            p.mb-0 Enjuagar todo el sistema con agua tibia (35 - 40 °C) inmediatamente después del ordeño para remover residuos de leche.
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-8
                 img(src='@/assets/curso/temas/img149.svg' style="max-width: 90px").m-auto
             h4.mb-3.estilo-text Lavado con detergente
-            p.mb-0 Recircular solución de detergente alcalino en agua caliente(60-70oC) por 10-15 minutos. Si se realiza limpieza manual, cepillar cada componente.
+            p.mb-0 Recircular solución de detergente alcalino en agua caliente(60 - 70 °C) por 10 - 15 minutos. Si se realiza limpieza manual, cepillar cada componente.
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-8
@@ -1207,7 +1207,7 @@
         
         h4.mb-4.caja-titulos-cuarto-nivel(data-aos="fade-right") Limpieza del tanque de enfriamiento  
 
-        p.mb-5 Este procedimiento debe realizarse después de cada recolección de leche, y de forma más profunda semanalmente: 
+        p.mb-5 Este procedimiento debe realizarse <strong>después de cada recolección de leche</strong>, y de forma más profunda semanalmente: 
 
         .row.align-items-center.m-0.style___box_1_1.ajuste___color.mb-5(data-aos="zoom-in")
           .col-xl
@@ -1272,7 +1272,7 @@
         .row.align-items-center.m-0.style___box_14(data-aos="zoom-in")
           .col-xl
             h4.mb-2.caja-titulos-cuarto-nivel(data-aos="fade-right") Alcance 
-            p.mb-0 Aplica a todo el personal, visitantes, proveedores, contratistas, técnicos y vehículos que ingresen al predio ganadero, sin excepción. 
+            p.mb-0 Aplica a todo el <strong>personal, visitantes, proveedores, contratistas, técnicos y vehículos</strong> que ingresen al predio ganadero, sin excepción. 
           .col-xl-auto
             figure.d-none.d-xl-block
               img(src='@/assets/curso/temas/img108.jpg', alt='' style="max-width: 500px").m-auto
@@ -1511,7 +1511,7 @@
 
     p.mb-4  En la producción ganadera de leche no existen modelos únicos o predeterminados para el diseño de protocolos. Su formulación depende del enfoque, el tipo de proceso y los objetivos sanitarios o productivos que se persigan.
 
-    p.mb-5 Sin embargo, todo protocolo debe estructurarse adecuadamente para garantizar su efectividad y aplicabilidad en campo. A continuación, se presentan algunas recomendaciones clave que deben seguir los protocolos productivos para ser funcionales y sostenibles
+    p.mb-5 Sin embargo, todo protocolo debe estructurarse adecuadamente para garantizar su efectividad y aplicabilidad en campo. A continuación, se presentan algunas <strong>recomendaciones clave</strong> que deben seguir los protocolos productivos para ser funcionales y sostenibles
 
     .row.align-items-center.m-0.style___box_1_1.ajuste___color.mb-5(data-aos="zoom-in")
           .col-xl
@@ -1754,11 +1754,11 @@
             .row.m-0.align-items-center.style___box_15
               h5.mb-3 Recomendaciones: 
               <ul class="fa-ul estilo___ul mb-0">
-                <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Los medicamentos deben estar autorizados por el ICA y almacenarse en condiciones adecuadas (temperatura, luz, humedad). </li>
-                <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Debe existir un botiquín veterinario con inventario actualizado y control de fechas de vencimiento. </li>
+                <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Los medicamentos deben estar autorizados por el <strong>ICA</strong> y almacenarse en condiciones adecuadas (temperatura, luz, humedad). </li>
+                <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Debe existir un <strong>botiquín veterinario</strong> con inventario actualizado y control de fechas de vencimiento. </li>
                 <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Durante el período de retiro no se puede utilizar la leche; debe manejarse como leche de descarte. </li>
-                <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Los registros deben mantenerse actualizados, disponibles para verificación en auditorías y conservarse por al menos dos años. </li>
-                <li class="mb-0"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>El predio debe contar con un plan sanitario autorizado que sustente el uso de medicamentos y bioinsumos. </li>
+                <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Los registros deben mantenerse actualizados, disponibles para verificación en auditorías y conservarse por al menos <strong>dos años</strong>. </li>
+                <li class="mb-0"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>El predio debe contar con un <strong>plan sanitario autorizado</strong> que sustente el uso de medicamentos y bioinsumos. </li>
               </ul>
 
         .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
@@ -1783,31 +1783,31 @@
                 th Descripción 
             tbody
               tr
-                td.ajuste-border-tabla Fecha 
+                td.ajuste-border-tabla.texto-left Fecha 
                 td.texto-left Día, mes y año en que se realiza el control.
               tr.ajuste-color-tabla
-                td.ajuste-border-tabla Área tratada 
+                td.ajuste-border-tabla.texto-left Área tratada 
                 td.texto-left Lugar específico donde se hizo la actividad (sala de ordeño, bodega, comederos, etc.).
               tr
-                td.ajuste-border-tabla Tipo de plaga o vector 
+                td.ajuste-border-tabla.texto-left Tipo de plaga o vector 
                 td.texto-left Especie controlada: roedores, moscas, cucarachas, zancudos, etc. 
               tr.ajuste-color-tabla
-                td.ajuste-border-tabla Método de control utilizado 
+                td.ajuste-border-tabla.texto-left Método de control utilizado 
                 td.texto-left Técnica aplicada: trampas, cebos, fumigación, aplicación de insecticidas, etc. 
               tr
-                td.ajuste-border-tabla Producto aplicado 
+                td.ajuste-border-tabla.texto-left Producto aplicado 
                 td.texto-left Nombre comercial del producto, con registro ICA vigente.
               tr.ajuste-color-tabla
-                td.ajuste-border-tabla Dosis o concentración 
+                td.ajuste-border-tabla.texto-left Dosis o concentración 
                 td.texto-left Cantidad y preparación aplicada (ej. 2 ml/litro de agua, 50 g por trampa).
               tr
-                td.ajuste-border-tabla Frecuencia de aplicación 
+                td.ajuste-border-tabla.texto-left Frecuencia de aplicación 
                 td.texto-left Periodicidad: semanal, quincenal, mensual o según observación.
               tr.ajuste-color-tabla
-                td.ajuste-border-tabla Nombre y firma del responsable 
+                td.ajuste-border-tabla.texto-left Nombre y firma del responsable 
                 td.texto-left Persona encargada de realizar la actividad.
               tr
-                td.ajuste-border-tabla Observaciones o resultados 
+                td.ajuste-border-tabla.texto-left Observaciones o resultados 
                 td.texto-left Eficacia observada, necesidad de reforzar el control, persistencia de plagas.
 
     .row.mb-5
@@ -1896,31 +1896,31 @@
             th Descripción 
         tbody
           tr
-            td.ajuste-border-tabla Fecha del ingreso 
+            td.ajuste-border-tabla.texto-left Fecha del ingreso 
             td.texto-left Día, mes y año.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Nombre completo 
+            td.ajuste-border-tabla.texto-left Nombre completo 
             td.texto-left Visitante, técnico, veterinario, proveedor, trabajador temporal, etc. 
           tr
-            td.ajuste-border-tabla Documento de identidad 
+            td.ajuste-border-tabla.texto-left Documento de identidad 
             td.texto-left Número de cédula u otro documento.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Motivo de la visita 
+            td.ajuste-border-tabla.texto-left Motivo de la visita 
             td.texto-left Actividad realizada: entrega de insumos, vacunación, reparación, etc. 
           tr
-            td.ajuste-border-tabla Zona visitada 
+            td.ajuste-border-tabla.texto-left Zona visitada 
             td.texto-left Áreas recorridas: sala de ordeño, potreros, tanque, bodega, etc. 
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Placa del vehículo (si aplica) 
+            td.ajuste-border-tabla.texto-left Placa del vehículo (si aplica) 
             td.texto-left Número de matrícula del vehículo.
           tr
-            td.ajuste-border-tabla Procedencia 
+            td.ajuste-border-tabla.texto-left Procedencia 
             td.texto-left Lugar de origen (finca anterior, municipio, empresa, etc.).
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Firma del visitante 
+            td.ajuste-border-tabla.texto-left Firma del visitante 
             td.texto-left Firma para constancia del ingreso.
           tr
-            td.ajuste-border-tabla Medidas de bioseguridad 
+            td.ajuste-border-tabla.texto-left Medidas de bioseguridad 
             td.texto-left Acciones realizadas: lavado de manos, pediluvio, desinfección de calzado y vehículo, entre otras.
 
     .row.justify-content-center
@@ -1956,22 +1956,22 @@
             th Descripción 
         tbody
           tr
-            td.ajuste-border-tabla Fecha 
+            td.ajuste-border-tabla.texto-left Fecha 
             td.texto-left Día, mes y año en que se realiza el registro.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Hora del ordeño 
+            td.ajuste-border-tabla.texto-left Hora del ordeño 
             td.texto-left Indicar si corresponde al ordeño de la mañana, tarde o noche (si aplica).
           tr
-            td.ajuste-border-tabla Temperatura del sistema de lavado del equipo 
+            td.ajuste-border-tabla.texto-left Temperatura del sistema de lavado del equipo 
             td.texto-left Registrar temperatura del agua caliente (debe estar entre 77 °C y 85 °C durante el lavado).
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Temperatura del tanque de almacenamiento 
+            td.ajuste-border-tabla.texto-left Temperatura del tanque de almacenamiento 
             td.texto-left Registrar la temperatura de la leche (debe mantenerse por debajo de 4 °C).
           tr
-            td.ajuste-border-tabla Responsable que realiza el registro 
+            td.ajuste-border-tabla.texto-left Responsable que realiza el registro 
             td.texto-left Nombre o firma de la persona que realiza la medición.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Observaciones (si aplica) 
+            td.ajuste-border-tabla.texto-left Observaciones (si aplica) 
             td.texto-left Anotar incidencias como: “tanque en mantenimiento”, “lavado con temperatura baja”, etc.
     
     .row.mb-5
@@ -2129,28 +2129,28 @@
             th Descripción 
         tbody
           tr
-            td.ajuste-border-tabla Nombre del alimento o suplemento 
+            td.ajuste-border-tabla.texto-left Nombre del alimento o suplemento 
             td.texto-left Denominación comercial o técnica (forraje, concentrado, ensilaje, sales minerales, etc.).
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Fecha de adquisición 
+            td.ajuste-border-tabla.texto-left Fecha de adquisición 
             td.texto-left Día, mes y año en que ingresó el alimento a la finca.
           tr
-            td.ajuste-border-tabla Cantidad recibida 
+            td.ajuste-border-tabla.texto-left Cantidad recibida 
             td.texto-left Medida en kilogramos, litros o unidades.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Proveedor 
+            td.ajuste-border-tabla.texto-left Proveedor 
             td.texto-left Nombre del productor, comercializador o empresa distribuidora.
           tr
-            td.ajuste-border-tabla Fecha de vencimiento (si aplica) 
+            td.ajuste-border-tabla.texto-left Fecha de vencimiento (si aplica) 
             td.texto-left Para productos procesados o suplementos.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Condiciones de almacenamiento 
+            td.ajuste-border-tabla.texto-left Condiciones de almacenamiento 
             td.texto-left Lugar y forma de conservación para evitar contaminación o deterioro.
           tr
-            td.ajuste-border-tabla Consumo estimado o registrado 
+            td.ajuste-border-tabla.texto-left Consumo estimado o registrado 
             td.texto-left Cantidad utilizada por lote o grupo de animales, con fechas correspondientes.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Observaciones 
+            td.ajuste-border-tabla.texto-left Observaciones 
             td.texto-left Cambios, deterioros, devoluciones u otros eventos que afecten la calidad del alimento.
 
     .row.mb-5.m-0.align-items-center.m-0.style___box_1_1.ajuste___color(data-aos="zoom-in")
@@ -2195,34 +2195,34 @@
             th Descripción 
         tbody
           tr
-            td.ajuste-border-tabla Nombre completo del trabajador 
+            td.ajuste-border-tabla.texto-left Nombre completo del trabajador 
             td.texto-left Persona capacitada.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Número de identificación 
+            td.ajuste-border-tabla.texto-left Número de identificación 
             td.texto-left Cédula u otro documento válido.
           tr
-            td.ajuste-border-tabla Cargo o función 
+            td.ajuste-border-tabla.texto-left Cargo o función 
             td.texto-left Rol que desempeña dentro de la unidad productiva.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Tema(s) de capacitación 
-            td.texto-left Ej.: higiene del ordeño, manejo sanitario, bioseguridad, bienestar animal, etc. 
+            td.ajuste-border-tabla.texto-left Tema(s) de capacitación 
+            td.texto-left Ejemplo: higiene del ordeño, manejo sanitario, bioseguridad, bienestar animal, etc. 
           tr
-            td.ajuste-border-tabla Fecha de la capacitación 
+            td.ajuste-border-tabla.texto-left Fecha de la capacitación 
             td.texto-left Día, mes y año en que se realizó.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Nombre y cargo del capacitador 
+            td.ajuste-border-tabla.texto-left Nombre y cargo del capacitador 
             td.texto-left Persona o entidad responsable de la formación.
           tr
-            td.ajuste-border-tabla Firma del trabajador 
+            td.ajuste-border-tabla.texto-left Firma del trabajador 
             td.texto-left Para constancia de la asistencia.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Firma del capacitador 
+            td.ajuste-border-tabla.texto-left Firma del capacitador 
             td.texto-left Confirmación de quien dictó la formación.
           tr
-            td.ajuste-border-tabla Duración (en horas) 
+            td.ajuste-border-tabla.texto-left Duración (en horas) 
             td.texto-left Tiempo dedicado a la capacitación.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Evidencias o soportes 
+            td.ajuste-border-tabla.texto-left Evidencias o soportes 
             td.texto-left Fotografías, certificados, listas de asistencia, etc. 
 
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
@@ -2245,34 +2245,34 @@
             th Descripción 
         tbody
           tr
-            td.ajuste-border-tabla Fecha del evento 
+            td.ajuste-border-tabla.texto-left Fecha del evento 
             td.texto-left Día, mes y año del ingreso o salida.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Tipo de evento 
+            td.ajuste-border-tabla.texto-left Tipo de evento 
             td.texto-left Ingreso (compra, nacimiento, retorno) o salida (venta, muerte, sacrificio, traslado, pérdida).
           tr
-            td.ajuste-border-tabla Número de identificación del animal 
+            td.ajuste-border-tabla.texto-left Número de identificación del animal 
             td.texto-left Arete, tatuaje, microchip u otro método aprobado por el ICA.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Número de animales involucrados 
+            td.ajuste-border-tabla.texto-left Número de animales involucrados 
             td.texto-left Total de animales en el movimiento.
           tr
-            td.ajuste-border-tabla Raza, sexo y edad 
+            td.ajuste-border-tabla.texto-left Raza, sexo y edad 
             td.texto-left Características básicas del animal.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Procedencia o destino 
+            td.ajuste-border-tabla.texto-left Procedencia o destino 
             td.texto-left Lugar de origen o de destino.
           tr
-            td.ajuste-border-tabla Nombre del proveedor o comprador 
+            td.ajuste-border-tabla.texto-left Nombre del proveedor o comprador 
             td.texto-left Si aplica.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Documento sanitario de movilización 
+            td.ajuste-border-tabla.texto-left Documento sanitario de movilización 
             td.texto-left Guía ICA o documento de autorización.
           tr
-            td.ajuste-border-tabla Observaciones relevantes 
+            td.ajuste-border-tabla.texto-left Observaciones relevantes 
             td.texto-left Motivo del evento, condiciones del animal, etc. 
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Nombre y firma del responsable 
+            td.ajuste-border-tabla.texto-left Nombre y firma del responsable 
             td.texto-left Persona que registra el movimiento.
 
     .row.mb-5
@@ -2303,37 +2303,37 @@
             th Descripción 
         tbody
           tr
-            td.ajuste-border-tabla Número de identificación del animal 
+            td.ajuste-border-tabla.texto-left Número de identificación del animal 
             td.texto-left Arete oficial ICA, tatuaje, microchip u otro método aceptado.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Nombre o alias (si aplica) 
+            td.ajuste-border-tabla.texto-left Nombre o alias (si aplica) 
             td.texto-left Nombre interno de referencia.
           tr
-            td.ajuste-border-tabla Fecha de nacimiento o ingreso 
+            td.ajuste-border-tabla.texto-left Fecha de nacimiento o ingreso 
             td.texto-left Según el caso.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Raza y sexo 
+            td.ajuste-border-tabla.texto-left Raza y sexo 
             td.texto-left Características del animal.
           tr
-            td.ajuste-border-tabla Identificación de la madre y padre 
+            td.ajuste-border-tabla.texto-left Identificación de la madre y padre 
             td.texto-left Si se conoce.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Eventos reproductivos 
+            td.ajuste-border-tabla.texto-left Eventos reproductivos 
             td.texto-left Montas, inseminaciones, diagnósticos, partos, abortos.
           tr
-            td.ajuste-border-tabla Eventos sanitarios 
+            td.ajuste-border-tabla.texto-left Eventos sanitarios 
             td.texto-left Enfermedades, tratamientos, vacunas.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Producción lechera individual 
+            td.ajuste-border-tabla.texto-left Producción lechera individual 
             td.texto-left En animales en producción.
           tr
-            td.ajuste-border-tabla Fecha y motivo de salida 
+            td.ajuste-border-tabla.texto-left Fecha y motivo de salida 
             td.texto-left Venta, sacrificio, muerte, etc. 
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Observaciones relevantes 
+            td.ajuste-border-tabla.texto-left Observaciones relevantes 
             td.texto-left Información adicional importante.
           tr
-            td.ajuste-border-tabla Nombre y firma del responsable 
+            td.ajuste-border-tabla.texto-left Nombre y firma del responsable 
             td.texto-left Persona encargada del registro.
 
     .row.mb-5
@@ -2364,25 +2364,25 @@
             th Descripción 
         tbody
           tr
-            td.ajuste-border-tabla Fecha y hora de limpieza 
+            td.ajuste-border-tabla.texto-left Fecha y hora de limpieza 
             td.texto-left Día, mes y año, y hora en que se realizó.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Identificación del equipo o tanque 
+            td.ajuste-border-tabla.texto-left Identificación del equipo o tanque 
             td.texto-left Indicar qué se limpió específicamente.
           tr
-            td.ajuste-border-tabla Tipo de limpieza 
+            td.ajuste-border-tabla.texto-left Tipo de limpieza 
             td.texto-left Limpieza en seco, húmeda o desinfección.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Nombre del producto utilizado 
+            td.ajuste-border-tabla.texto-left Nombre del producto utilizado 
             td.texto-left Detergente o desinfectante, con concentración usada.
           tr
-            td.ajuste-border-tabla Nombre de la persona responsable 
+            td.ajuste-border-tabla.texto-left Nombre de la persona responsable 
             td.texto-left Quien realizó la limpieza.
           tr.ajuste-color-tabla
-            td.ajuste-border-tabla Observaciones 
+            td.ajuste-border-tabla.texto-left Observaciones 
             td.texto-left Hallazgos: suciedad, fallas del equipo, agua no potable, etc. 
           tr
-            td.ajuste-border-tabla Firma del responsable 
+            td.ajuste-border-tabla.texto-left Firma del responsable 
             td.texto-left Validación de la actividad realizada.
 
     p.mb-0.style___box_15(data-aos="zoom-in") Antes de cerrar este registro, es importante tener en cuenta la siguiente frecuencia de aplicación según lo establecido por las BPG y la normativa del ICA: la limpieza y desinfección de los elementos utilizados en la producción lechera deben seguir una frecuencia estricta para garantizar la calidad del producto y la sanidad del proceso. El equipo de ordeño debe ser higienizado al finalizar cada jornada, asegurando que no queden residuos que puedan contaminar el siguiente ordeño. Por su parte, el tanque de almacenamiento debe limpiarse inmediatamente después de cada vaciado completo y antes de ser utilizado nuevamente, con el fin de evitar la proliferación de microorganismos y mantener la leche en condiciones óptimas. 

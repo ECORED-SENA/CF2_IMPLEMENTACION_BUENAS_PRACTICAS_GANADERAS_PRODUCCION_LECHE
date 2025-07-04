@@ -142,29 +142,29 @@
 
     p.mb-4  Una vez realizado el diagnóstico inicial del predio, debe aplicarse la lista de chequeo oficial denominada “Predios productores de leche con destino al consumo humano - Forma 3-852 V.5”, diseñada por el Instituto Colombiano Agropecuario (ICA).
 
-    p.mb-5 Esta herramienta evalúa el grado de cumplimiento de los criterios fundamentales (F), mayores (My) y menores (Mn), con el fin de calcular los porcentajes alcanzados e identificar oportunidades de mejora.
+    p.mb-5 Esta herramienta evalúa el grado de cumplimiento de los criterios <strong>fundamentales (F), mayores (My) y menores (Mn)</strong>, con el fin de calcular los porcentajes alcanzados e identificar oportunidades de mejora.
 
     .row.justify-content-center.mb-5
       .col-xl-10
         .row.align-items-center.m-0.style___box_14(data-aos="zoom-in")
           .col-xl
-            p.mb-3 Con base en los resultados obtenidos, se debe formular un plan de trabajo orientado a alcanzar: 
+            p.mb-3 Con base en los resultados obtenidos, se debe formular un <strong>plan de trabajo</strong> orientado a alcanzar: 
             <ul class="fa-ul estilo___ul mb-0">
-              <li class="mb-1"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>100 % de cumplimiento en los criterios fundamentales (F).</li>
-              <li class="mb-1"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Más del 80 % en los criterios mayores (My).</li>
-              <li class="mb-0"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Al menos 60 % en los criterios menores (Mn).</li>
+              <li class="mb-1"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span><strong>100 %</strong> de cumplimiento en los criterios <strong>fundamentales (F)</strong>.</li>
+              <li class="mb-1"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Más del <strong>80 %</strong> en los criterios <strong>mayores (My)</strong>.</li>
+              <li class="mb-0"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Al menos <strong>60 %</strong> en los criterios <strong>menores (Mn)</strong>.</li>
             </ul>
           .col-xl-auto
             figure.d-none.d-xl-block
               img(src='@/assets/curso/temas/img139.jpg', alt='' style="max-width: 500px").m-auto
 
-    p.mb-5 Estos son los valores mínimos requeridos para que un predio sea considerado certificable en buenas prácticas ganaderas (BPG) para la producción de leche. Además del cumplimiento normativo, este proceso representa una oportunidad estratégica para mejorar el desempeño integral de la empresa ganadera, fortaleciendo la calidad del producto, la sostenibilidad ambiental, el bienestar animal y la competitividad comercial. 
+    p.mb-5 Estos son los valores mínimos requeridos para que un predio sea considerado <strong>certificable</strong> en buenas prácticas ganaderas (BPG) para la producción de leche. Además del cumplimiento normativo, este proceso representa una oportunidad estratégica para mejorar el desempeño integral de la empresa ganadera, fortaleciendo la calidad del producto, la sostenibilidad ambiental, el bienestar animal y la competitividad comercial. 
 
     .titulo-sexto.color-acento-contenido.mb-2(data-aos="fade-right")
       h5 Tabla 17.
       span Totalización de criterios para certificación en BPG
     .tabla-a(data-aos="zoom-in").mb-5
-      table
+      table.ajuste__tabla
         thead
           tr
             th.ajuste-border-tabla Tipo de criterio 
@@ -200,7 +200,7 @@
             td.ajuste-border-tabla -
             td -
     
-    p.mb-5 Después de ejecutar las acciones correctivas y alcanzar los niveles mínimos exigidos, el productor deberá solicitar formalmente al ICA la auditoría de certificación en BPG. El ICA (o una entidad delegada) dispondrá de 15 días calendario para realizar la visita. Durante la auditoría se diligencia nuevamente la lista de chequeo y se elabora un informe técnico, el cual derivará en uno de los siguientes conceptos: 
+    p.mb-5 Después de ejecutar las acciones correctivas y alcanzar los niveles mínimos exigidos, el productor deberá <strong>solicitar formalmente al ICA</strong> la auditoría de certificación en BPG. El ICA (o una entidad delegada) dispondrá de <strong>15 días calendario</strong> para realizar la visita. Durante la auditoría se diligencia nuevamente la lista de chequeo y se elabora un <strong>informe técnico</strong>, el cual derivará en uno de los siguientes conceptos: 
 
     TabsC.color-acento-contenido(data-aos="zoom-in")
       .py-3.py-md-4(titulo="Concepto: Aplazado")
@@ -212,11 +212,11 @@
             h4.txt--purpura.mb-4 Concepto: Aplazado 
             p.mb-3 Se asigna cuando el predio no cumple con alguno de los siguientes requisitos: 
             <ul class="fa-ul mb-3">
-              <li class="mb-1"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Menos del 100 % de los criterios fundamentales.</li>
-              <li class="mb-1"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Menos del 80 % de los criterios mayores.</li>
-              <li class="mb-0"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Menos del 60 % de los criterios menores.</li>
+              <li class="mb-1"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Menos del <strong>100 %</strong> de los criterios fundamentales.</li>
+              <li class="mb-1"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Menos del <strong>80 %</strong> de los criterios mayores.</li>
+              <li class="mb-0"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Menos del <strong>60 %</strong> de los criterios menores.</li>
             </ul>
-            p.mb-0 En este caso, el productor contará con tres (3) meses para subsanar las no conformidades. Una vez implementadas las mejoras, deberá notificar al ICA para que programe una nueva visita, la cual deberá realizarse en un plazo máximo de 30 días hábiles a partir de la solicitud. 
+            p.mb-0 En este caso, el productor contará con <strong>tres (3) meses</strong> para subsanar las no conformidades. Una vez implementadas las mejoras, deberá notificar al ICA para que programe una nueva visita, la cual deberá realizarse en un plazo máximo de <strong>30 días hábiles</strong> a partir de la solicitud. 
 
       .py-3.py-md-4(titulo="Concepto: Certificable")
         .row.justify-content-center.align-items-center
@@ -227,16 +227,11 @@
             h4.txt--purpura.mb-4 Concepto: Certificable 
             p.mb-3 Se otorga cuando el predio cumple con: 
             <ul class="fa-ul mb-3">
-              <li class="mb-1"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>100 % de los criterios fundamentales.</li>
-              <li class="mb-1"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Al menos 80 % de los criterios mayores.</li>
-              <li class="mb-0"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Al menos 60 % de los criterios menores.</li>
+              <li class="mb-1"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span><strong>100 %</strong> de los criterios fundamentales.</li>
+              <li class="mb-1"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Al menos <strong>80 %</strong> de los criterios mayores.</li>
+              <li class="mb-0"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Al menos <strong>60 %</strong> de los criterios menores.</li>
             </ul>
-            p.mb-0 Bajo este concepto, el ICA emite el Certificado de buenas prácticas ganaderas (BPG) en producción de leche, el cual es válido por tres años y respalda el cumplimiento de los estándares sanitarios, productivos, ambientales y de bienestar animal establecidos en la normativa nacional. 
-
-
-
-
-
+            p.mb-0 Bajo este concepto, el ICA emite el <strong>Certificado de buenas prácticas ganaderas (BPG)</strong> en producción de leche, el cual es válido por <strong>tres años</strong> y respalda el cumplimiento de los estándares sanitarios, productivos, ambientales y de bienestar animal establecidos en la normativa nacional. 
 
 </template>
 

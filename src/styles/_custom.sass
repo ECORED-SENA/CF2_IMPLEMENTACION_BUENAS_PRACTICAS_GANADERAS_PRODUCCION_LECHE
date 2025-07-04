@@ -234,7 +234,7 @@ figcaption
   -webkit-overflow-scrolling: touch
   table
     width: 100%
-    mim-width: 500px
+    mim-width: 600px !important
     border-bottom: 1px solid #b9b9b9!important
   thead
     border-top: 5px solid $color-acento-contenido !important
@@ -243,8 +243,12 @@ figcaption
     background-color: white !important
   td
     padding: 1rem
+    @media screen and (max-width: 1200px)
+      padding: 0.5rem
   th
     padding: 1.5rem
+    @media screen and (max-width: 1200px)
+      padding: 0.5rem
 .ajuste-border-tabla
   border-right: 1px solid #b9b9b9!important
 .ajuste-color-tabla
@@ -253,6 +257,9 @@ figcaption
   text-align: right
 .texto-left
   text-align: left
+.ajuste__tabla
+  @media screen and (max-width: 1200px)
+    font-size: 12px
 
 /// BLOQUE 2 -----------------------
 .acordion__accion__btn--a
