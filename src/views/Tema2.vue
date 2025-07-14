@@ -1079,8 +1079,10 @@
     p.mb-5 A continuación, se describe de manera detallada el protocolo de manejo clínico y sanitario para bovinos enfermos, incluyendo los pasos técnicos y las medidas de bioseguridad necesarias para garantizar el bienestar animal y la sanidad del hato. 
 
     figure.mb-5(data-aos="zoom-in")
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      .video.mb-1
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Ai9bV-3PO7I" title="Manejo de animales enfermos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption(data-aos="zoom-in") <strong>Video</strong>: Manejo de animales enfermos.
+
 
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto

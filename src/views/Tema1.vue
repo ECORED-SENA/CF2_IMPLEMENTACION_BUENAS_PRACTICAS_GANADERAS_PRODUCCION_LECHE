@@ -262,8 +262,9 @@
     p.mb-5 Se invita a revisar el video, el cual ofrece una visión general sobre las normas, acciones y herramientas necesarias para aplicar las Buenas Prácticas Ganaderas (BPG) en diferentes sistemas de producción: leche, carne o doble propósito. 
 
     figure.mb-5(data-aos="zoom-in")
-      .video
+      .video.mb-1
         iframe(width="560" height="315" src="https://www.youtube.com/embed/2oIxc8HM1DU" title="Recursos para implementación de BPG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption(data-aos="zoom-in") <strong>Video</strong>: Recursos para implementación de BPG.
     
     p.mb-5 Aunque las BPG pueden enfocarse específicamente en un tipo de producción, comparten una base común de principios y requisitos que deben cumplirse en cualquier sistema bovino.
 
@@ -678,7 +679,7 @@
                     <li class="mb-0"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Guía sanitaria de movilización (original y copia), expedida por el ICA.</li>
                   </ul>
     
-    p.mb-5.espacio___movil_3 Además de los registros mencionados, el productor que desee obtener la certificación en Buenas Prácticas Ganaderas (BPG) debe contar con los siguientes documentos actualizados y disponibles al momento de la auditoría:
+    p.mb-5.espacio___movil_3 Además de los registros mencionados, el productor que desee obtener la certificación en Buenas Prácticas Ganaderas (BPG) debe contar con los siguientes <strong>documentos actualizados y disponibles</strong> al momento de la auditoría:
 
     .row.mb-3
       .col-xl-6(data-aos="zoom-in")
