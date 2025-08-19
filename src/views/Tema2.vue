@@ -1187,12 +1187,12 @@
               .col-8
                 img(src='@/assets/curso/temas/img149.svg' style="max-width: 90px").m-auto
             h4.mb-3.estilo-text Lavado con detergente
-            p.mb-0 Recircular solución de detergente alcalino en agua caliente(60 - 70 °C) por 10 - 15 minutos. Si se realiza limpieza manual, cepillar cada componente.
+            p.mb-0 Recircular solución de detergente alcalino en agua caliente (60 - 70 °C) por 10 - 15 minutos. Si se realiza limpieza manual, cepillar cada componente.
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
               .col-8
                 img(src='@/assets/curso/temas/img150.svg' style="max-width: 90px").m-auto
-            h4.mb-3.estilo-text Enjuaue
+            h4.mb-3.estilo-text Enjuague
             p.mb-0 Enjuagar con abundante agua potable para eliminar residuos del detergente.
           .tarjeta.color-acento-botones.p-4
             .row.justify-content-center.mb-3
@@ -1600,6 +1600,7 @@
     figure(data-aos="zoom-in")
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/Qu87gWNPJK4" title="Características y simbologías de las Buenas Prácticas Ganaderas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption(data-aos="zoom-in") <strong>Video</strong>: Características y simbologías de las Buenas Prácticas Ganaderas
 
     <!-- BLOQUE 4 -->
     Separador
@@ -1872,7 +1873,7 @@
             .style___box_9.h-100.ajuste___color_9
               .row.align-items-center
                 .col-xl-9
-                  p.mb-0 Manejo de plagas.
+                  p.mb-0 Manejo de potreros.
                 .col-xl-3(data-aos="fade-left").espacio___movil_3
                   a.boton.color-acento-botones(@click="abrirModal('ANEXO_12.jpg')")
                     span Ver
@@ -2400,7 +2401,7 @@
     // Modal ÚNICO (fuera de los .col-xl)
     ModalA(:abrir-modal.sync="modalActivo")
       figure
-        img(:src="imagenModal", alt="").m-auto
+        img(:src="imagenModal", alt="", style="max-width: 900px").m-auto
   
 </template>
 

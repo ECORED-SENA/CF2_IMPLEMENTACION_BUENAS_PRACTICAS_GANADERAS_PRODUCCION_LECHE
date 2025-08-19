@@ -1,9 +1,9 @@
 export default {
   global: {
     Name:
-      'Principios de la buenas prácticas ganaderas en la producción de leche',
+      'Principios de las buenas prácticas ganaderas en la producción de leche',
     Description:
-      'El componente formativo aborda la implementación de Buenas Prácticas Ganaderas en la producción de leche bovina, enfocándose en la inocuidad, bienestar animal, sostenibilidad y trazabilidad. Describe protocolos, procesos, registros, requisitos normativos y criterios para la certificación ICA. También incluye metodologías, cronograma, evaluación, manejo ambiental y control sanitario, promoviendo una producción responsable y competitiva.',
+      'El componente formativo integra aspectos clave como inocuidad, bienestar animal, sostenibilidad y trazabilidad. Detalla acciones y registros exigidos por la normativa del ICA, junto con medidas de manejo sanitario, bioseguridad y control ambiental. Incluye organización de procesos, cronogramas, listas de verificación y auditorías, además de protocolos para ordeño, control de mastitis, manejo de leche en retiro, limpieza y compra de animales, fortaleciendo calidad y competitividad.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -440,7 +440,7 @@ export default {
         },
         {
           nombre: 'Olga Constanza Bermudez Jaimes',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de línea de producción Huila',
           centro: 'Dirección General',
         },
       ],
@@ -466,7 +466,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Diana Milena Picon RIncon',
+          nombre: 'Diana Milena Picon Rincon',
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',

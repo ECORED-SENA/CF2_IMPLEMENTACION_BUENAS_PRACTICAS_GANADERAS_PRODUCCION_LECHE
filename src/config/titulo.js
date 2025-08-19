@@ -1,1 +1,2 @@
-module.exports = 'Principios de la buenas prácticas ganaderas en la producción de leche'
+module.exports =
+  'Principios de las buenas prácticas ganaderas en la producción de leche'

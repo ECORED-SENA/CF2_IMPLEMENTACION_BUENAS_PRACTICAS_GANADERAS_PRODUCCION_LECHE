@@ -361,19 +361,19 @@
       .col-xl-3(data-aos="zoom-in")
         .style___box_4.h-100
           h4 Las personas y la empresa
-          p.mb-0 Organización de la empresa Personal.
+          p.mb-0 Organización de la empresa, personal.
       .col-xl-3(data-aos="zoom-in").espacio___movil_3
         .style___box_4.h-100
           h4 El animal y su manejo
-          p.mb-0 Manejo del hato Alimentación Salud animal Bienestar animal.
+          p.mb-0 Manejo del hato, alimentación, salud animal, bienestar animal.
       .col-xl-3(data-aos="zoom-in").espacio___movil_3
         .style___box_4.h-100
           h4 Infraestructura de producción
-          p.mb-0 Establecimiento Instalaciones, equipos y herramientas.
+          p.mb-0 Establecimiento, instalaciones, equipos y herramientas.
       .col-xl-3(data-aos="zoom-in").espacio___movil_3
         .style___box_4.h-100
           h4 El ambiente y la producción
-          p.mb-0 Suelo, agua, forrajes gestión de estiércol y efluentes gestión de residuos adaptación y mitigación al cambio climático.
+          p.mb-0 Suelo, agua, forrajes, gestión de estiércol y efluentes, gestión de residuos, adaptación y mitigación al cambio climático.
 
     <!-- BLOQUE 5 -->
     Separador
@@ -500,7 +500,7 @@
           .col-xl
             <ul class="fa-ul estilo___ul">
               <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>El <strong>ICA o la entidad autorizada</strong> contará con un plazo máximo de <strong>quince (15) días</strong> para realizar la visita.</li>
-              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>urante esta, se diligenciará nuevamente la <strong>lista de chequeo</strong>, y se elaborará un informe de auditoría.</li>
+              <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Durante esta, se diligenciará nuevamente la <strong>lista de chequeo</strong>, y se elaborará un informe de auditoría.</li>
               <li class="mb-2"><span class="fa-li"><i class="fas fa-hat-cowboy"></i></span>Este informe reflejará el <strong>concepto técnico</strong>, que podrá ser:</li>
               <ul class="fa-ul estilo___ul">
                 <li class="mb-0"><span class="fa-li"><i class="fab fa-redhat"></i></span><strong>Certificable</strong>, si se cumple con los requisitos.</li>
