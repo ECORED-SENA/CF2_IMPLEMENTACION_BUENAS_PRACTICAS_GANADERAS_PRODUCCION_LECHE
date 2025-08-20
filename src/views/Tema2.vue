@@ -1080,9 +1080,8 @@
 
     figure.mb-5(data-aos="zoom-in")
       .video.mb-1
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/Ai9bV-3PO7I" title="Manejo de animales enfermos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/Ai9bV-3PO7I?si=JygvxIPPTrMn8fNd" title="Manejo de animales enfermos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption(data-aos="zoom-in") <strong>Video</strong>: Manejo de animales enfermos.
-
 
     .caja-titulos-tercer-nivel.mb-5(data-aos="fade-right")
       .col-lg-auto
