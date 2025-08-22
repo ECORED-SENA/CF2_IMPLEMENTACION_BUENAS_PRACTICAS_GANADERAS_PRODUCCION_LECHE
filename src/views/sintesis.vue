@@ -4,9 +4,9 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
     p A continuación, se presenta una síntesis de la temática estudiada en el componente formativo. 
     .row.justify-content-center
-      .col-lg-12.mb-5.bgs.p-4.brad
+      .col-lg-10.mb-5.bgs.p-4.brad
         figure
-          img(src="@/assets/curso/sintesis.svg", alt="Síntesis  sobre el Plan de Implementación BPG&SL que incluye procedimientos, procesos y registros, gestión documental, comunicación y gestión de personal, implementado en bovinos de leche.")
+          img(src="@/assets/curso/sintesis.png", alt="Síntesis  sobre el Plan de Implementación BPG&SL que incluye procedimientos, procesos y registros, gestión documental, comunicación y gestión de personal, implementado en bovinos de leche.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono
